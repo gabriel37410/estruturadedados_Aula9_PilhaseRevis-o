@@ -1,0 +1,24 @@
+1. Suponha que uma pilha possua 4 valores na seguinte ordem: 1, 2, 3 e 4. Qual seria a sequencia correta de operações de inserção (I) e eliminação (E) para se obter os  registros na ordem 2 4 3 1?
+
+ordem atual da pilha abaixo:
+1
+2
+3
+4
+
+E 
+E
+E
+E
+
+I - 2
+I - 4
+I - 3
+I - 1
+
+Seguencia da pilha abaixo:
+
+2
+4
+3
+1
